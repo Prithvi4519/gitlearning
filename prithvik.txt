@@ -1,0 +1,4 @@
+Welcome to git project class
+This is a text file
+This is an editor.
+Welcome to git project class
